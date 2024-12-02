@@ -3,7 +3,7 @@ Currently working to become a cpython contributor, low-level(not primary) develo
 
 
 I manage and update following site:
-- my blog(chinese)(moving to blog.z2z63.dev soon):   [blog.virtualfuture.top](https://z2z63.dev)
+- my blog(chinese)(moving to blog.z2z63.dev soon):   [blog.virtualfuture.top](https://blog.virtualfuture.top)
 - my portfolio(this site): [z2z63.dev](https://z2z63.dev)
 
 Find me at:
