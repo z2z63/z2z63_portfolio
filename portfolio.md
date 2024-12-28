@@ -1,9 +1,9 @@
-Hi, I am z2z63, a developer from China, also an archlinux user, and a visual novel game player,
+Hi, I am z2z63, a developer from China, also an archlinux user, and a visual novel game player.
 Currently working to become a cpython contributor, low-level(not primary) developer, and open source software developer.    
 
 
 I manage and update following site:
-- my blog(chinese)(moving to blog.z2z63.dev soon):   [blog.virtualfuture.top](https://blog.virtualfuture.top)
+- my blog(chinese):   [blog.z2z63.dev](https://blog.z2z63.dev)
 - my portfolio(this site): [z2z63.dev](https://z2z63.dev)
 
 Find me at:
